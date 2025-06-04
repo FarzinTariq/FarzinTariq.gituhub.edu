@@ -1,2 +1,4 @@
 # FarzinTariq.gituhub.edu
-owner --Farzin
+<br>
+this is my first github repository
+author--Farzin
